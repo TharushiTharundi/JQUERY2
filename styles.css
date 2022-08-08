@@ -1,0 +1,12 @@
+
+img{
+    background-color: white;
+}
+
+#play, #play1 , #play2 , #play3 , #play4 , #play5{
+    background-color: white;
+    border-style: none;
+    margin-left: 30px;
+    text-align: center;
+    margin-top: 250px;
+}
